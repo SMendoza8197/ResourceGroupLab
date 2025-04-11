@@ -1,4 +1,4 @@
-How to create a Resource Group in Azure 
+How to create a Resource Group in Azure & delete group.
 
 Locate resource group page follow images for guidance
 
@@ -29,5 +29,23 @@ Finish creating group
 Verify group was created in resource groups
 
 <img width="1421" alt="Screenshot 2025-04-11 at 11 39 23 AM" src="https://github.com/user-attachments/assets/1682d59e-34d7-4e35-86c6-116231d0e898" />
+
+
+Deleting Resource group steps.
+
+Open the Resource group.
+
+Then look for delete resource group.
+
+<img width="1419" alt="Deleting RG" src="https://github.com/user-attachments/assets/bc50b62d-c007-4228-ae88-f79134bf27c7" />
+
+
+<img width="1423" alt="CPD" src="https://github.com/user-attachments/assets/9f7df4c5-a53c-4f1c-9a43-5b2ed4832f50" />
+
+
+Once deleted to verfiy resource group has been deleted. 
+You will recieve a notification stated it has been deleted.
+
+<img width="1424" alt="Nofitcation" src="https://github.com/user-attachments/assets/b40b1e7f-6d2f-40a1-9f74-e5a0e9673d7b" />
 
 
