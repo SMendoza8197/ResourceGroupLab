@@ -35,8 +35,13 @@ This tutorial outlines how to create and delete a resource group in azure.
 6. Click "Create"
    - After the validation, click the "Create" button to create the resource group.
 
-<h2>Steps to Delete a Resource Group in Azure </h2>
+<img width="1433" alt="Resource Group" src="https://github.com/user-attachments/assets/e47312e9-6773-4da1-ad94-1fc6a20e6288" />
+<img width="1424" alt="Creating Group" src="https://github.com/user-attachments/assets/cec36f16-8018-4200-a0d1-f93803275cb6" />
+<img width="749" alt="Steps" src="https://github.com/user-attachments/assets/4f722285-5ae8-46e7-8098-869f3b68a6a1" />
+<img width="412" alt="Screenshot 2025-04-11 at 11 38 45 AM" src="https://github.com/user-attachments/assets/943c6700-043c-4163-93b8-c41976913140" />
+<img width="1421" alt="Screenshot 2025-04-11 at 11 39 23 AM" src="https://github.com/user-attachments/assets/1682d59e-34d7-4e35-86c6-116231d0e898" />
 
+<h2>Steps to Delete a Resource Group in Azure </h2>
 
 1. Go to Resource Groups
    - In the Azure Portal, navigate to "Resource groups" from the left sidebar.
@@ -50,12 +55,6 @@ This tutorial outlines how to create and delete a resource group in azure.
 4. Confirm the Deletion
    - Type the resource group name to confirm the deletion.
    - Click "Delete" to finalize.
-
-<img width="1433" alt="Resource Group" src="https://github.com/user-attachments/assets/e47312e9-6773-4da1-ad94-1fc6a20e6288" />
-<img width="1424" alt="Creating Group" src="https://github.com/user-attachments/assets/cec36f16-8018-4200-a0d1-f93803275cb6" />
-<img width="749" alt="Steps" src="https://github.com/user-attachments/assets/4f722285-5ae8-46e7-8098-869f3b68a6a1" />
-<img width="412" alt="Screenshot 2025-04-11 at 11 38 45 AM" src="https://github.com/user-attachments/assets/943c6700-043c-4163-93b8-c41976913140" />
-<img width="1421" alt="Screenshot 2025-04-11 at 11 39 23 AM" src="https://github.com/user-attachments/assets/1682d59e-34d7-4e35-86c6-116231d0e898" />
 <img width="1419" alt="Deleting RG" src="https://github.com/user-attachments/assets/bc50b62d-c007-4228-ae88-f79134bf27c7" />
 <img width="1423" alt="CPD" src="https://github.com/user-attachments/assets/9f7df4c5-a53c-4f1c-9a43-5b2ed4832f50" />
 <img width="1424" alt="Nofitcation" src="https://github.com/user-attachments/assets/b40b1e7f-6d2f-40a1-9f74-e5a0e9673d7b" />
